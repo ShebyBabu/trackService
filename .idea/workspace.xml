@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="322ccc55-7ff3-4d93-af2c-4314fa43ca3c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/userservice/userservice/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userservice/userservice/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userservice/userservice/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userservice/userservice/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userservice/userservice/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userservice/userservice/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userservice/userservice/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userservice/userservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/userservice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/config/SwaggerConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/config/SwaggerConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/controller/MusicController.java" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/controller/MusicController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/domain/Music.java" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/domain/Music.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/repository/MusicRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/repository/MusicRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/seeddata/StartupApplicationListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/seeddata/StartupApplicationListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/service/MusicService.java" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/service/MusicService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/service/MusicServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/service/MusicServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userservice/userservice/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/userservice/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/userservice/userservice/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SpringBootTaskOne" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/service/MusicService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/repository/MusicRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/userservice/userservice/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="74" column="21" selection-start-line="74" selection-start-column="21" selection-end-line="74" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/seeddata/CommandLineRunnerApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/config/WebConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/controller/MusicController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="65" column="64" selection-start-line="65" selection-start-column="64" selection-end-line="65" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/service/MusicServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="972">
+              <caret line="70" column="17" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Musix</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>music</replace>
+      <replace>Music</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/userservice/userservice" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/UserServiceApplication.java" />
+        <option value="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/domain/Musix.java" />
+        <option value="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/service/MusixService.java" />
+        <option value="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/controller/MusixController.java" />
+        <option value="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/service/MusixServiceImpl.java" />
+        <option value="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/repository/MusixRepository.java" />
+        <option value="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/exceptions/TrackAlreadyExistException.java" />
+        <option value="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/exceptions/TrackNotFoundException.java" />
+        <option value="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/config/WebConfiguration.java" />
+        <option value="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/exceptions/GlobalExceptions.java" />
+        <option value="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/exceptions/TrackGlobalException.java" />
+        <option value="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/exceptions/ResponseForException.java" />
+        <option value="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/MusicServiceApplication.java" />
+        <option value="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/config/ApplicationListener.java" />
+        <option value="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/config/CommandLineRunner.java" />
+        <option value="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/config/CommandLineRunnerApp.java" />
+        <option value="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/config/StartupApplicationRunner.java" />
+        <option value="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/seeddata/ApplicationListenerApp.java" />
+        <option value="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/config/StartupApplicationListener.java" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/userservice/userservice/Dockerfile" />
+        <option value="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/MusicApplication.java" />
+        <option value="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/config/SwaggerConfiguration.java" />
+        <option value="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/seeddata/CommandLineRunnerApp.java" />
+        <option value="$PROJECT_DIR$/userservice/userservice/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/service/MusicService.java" />
+        <option value="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/service/MusicServiceImpl.java" />
+        <option value="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/repository/MusicRepository.java" />
+        <option value="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/controller/MusicController.java" />
+        <option value="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/seeddata/StartupApplicationListener.java" />
+        <option value="$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/domain/Music.java" />
+        <option value="$PROJECT_DIR$/userservice/userservice/src/test/java/com/stackroute/userservice/controller/MusicControllerTest.java" />
+        <option value="$PROJECT_DIR$/userservice/userservice/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="userService" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="userService" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="174" />
+    <option name="y" value="27" />
+    <option name="width" value="1151" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SpringBootTaskOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBootTaskOne" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootTaskOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBootTaskOne" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootTaskOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBootTaskOne" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootTaskOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBootTaskOne" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootTaskOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBootTaskOne" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootTaskOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBootTaskOne" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootTaskOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBootTaskOne" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootTaskOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBootTaskOne" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootTaskOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBootTaskOne" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootTaskOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBootTaskOne" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootTaskOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBootTaskOne" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootTaskOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBootTaskOne" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="seeddata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootTaskOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBootTaskOne" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootTaskOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBootTaskOne" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootTaskOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBootTaskOne" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootTaskOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBootTaskOne" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootTaskOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBootTaskOne" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootTaskOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringBoot/SpringBootTaskOne-TestCases" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MusicApplication">
+    <configuration name="MusicApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.userservice.MusicApplication" />
+      <module name="userservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.userservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MusicServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.userservice.MusicServiceApplication" />
+      <module name="userservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.userservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MusicControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="userservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.userservice.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.userservice.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.userservice.controller.MusicControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MusicApplication" />
+        <item itemvalue="JUnit.MusicControllerTest" />
+        <item itemvalue="Application.MusicServiceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="322ccc55-7ff3-4d93-af2c-4314fa43ca3c" name="Default Changelist" comment="" />
+      <created>1558431244068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558431244068</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MusicControllerTest - 2019.05.28 at 09h 30m 19s.xml">
+      <configuration name="MusicControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MusicControllerTest - 2019.05.28 at 09h 30m 44s.xml">
+      <configuration name="MusicControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MusicControllerTest - 2019.05.28 at 09h 31m 15s.xml">
+      <configuration name="MusicControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MusicControllerTest - 2019.05.28 at 12h 15m 32s.xml">
+      <configuration name="MusicControllerTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1533" height="875" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4988864" visible="true" weight="0.27505043" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5011136" side_tool="true" weight="0.25958306" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.328877" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3766756" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49966374" weight="0.45187166" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5003362" side_tool="true" weight="0.37299466" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32841823" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32952252" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/controller/MusicController.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/repository/MusixRepository.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/io/springfox/springfox-spring-web/2.9.2/springfox-spring-web-2.9.2.jar!/springfox/documentation/spring/web/plugins/DocumentationPluginsManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="152" selection-start-line="152" selection-end-line="152" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/exceptions/TrackNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/exceptions/TrackAlreadyExistException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/exceptions/ResponseForException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="5" column="20" selection-start-line="5" selection-end-line="6" />
+          <folding>
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/exceptions/TrackGlobalException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/config/StartupApplicationRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="39" column="2" selection-start-line="39" selection-start-column="2" selection-end-line="39" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/config/CommandLineRunnerApp.java" />
+    <entry file="file://$PROJECT_DIR$/Dockerfile" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.0.M2/spring-beans-5.2.0.M2.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="951" selection-start-line="951" selection-end-line="951" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/MusicServiceApplication.java" />
+    <entry file="file://$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/config/StartupApplicationListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/userservice/Dockerfile" />
+    <entry file="file://$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/config/SwaggerConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="17" column="19" lean-forward="true" selection-start-column="2" selection-end-line="24" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/userservice/src/test/java/com/stackroute/userservice/MusicServiceApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/userservice/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/domain/Music.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/seeddata/StartupApplicationListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="33" column="34" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/MusicApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/seeddata/CommandLineRunnerApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/config/WebConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/service/MusicServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="70" column="17" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/service/MusicService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/controller/MusicController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="65" column="64" selection-start-line="65" selection-start-column="64" selection-end-line="65" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/userservice/src/test/java/com/stackroute/userservice/repository/MusicRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/userservice/src/test/java/com/stackroute/userservice/service/MusicServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/userservice/src/test/java/com/stackroute/userservice/controller/MusicControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/userservice/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="74" column="21" selection-start-line="74" selection-start-column="21" selection-end-line="74" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/userservice/src/main/java/com/stackroute/userservice/repository/MusicRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
